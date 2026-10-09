@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "splicer scorn (voidrane)"
+            }
+        ],
+        "Category": "Plasma 6 Splashscreens",
+        "Description": "Dark Morrowind shrine splash: a layered sigil of Daedric script around a breathing rune, inscription igniting as the desktop loads",
+        "Id": "scorn.daedricmorrowind",
+        "License": "GPL-3.0-or-later",
+        "Name": "Daedric Morrowind",
+        "Website": "https://github.com/numbpill3d/daedric-morrowind-splash",
+        "Version": "1.0"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;",
+    "X-Plasma-APIVersion": "2"
+}
