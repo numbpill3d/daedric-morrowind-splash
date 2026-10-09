@@ -4,7 +4,7 @@ The splash shown while Plasma starts. The Daedric script is real: it is set in *
 (SIL Open Font License 1.1), which maps the Latin letters A–Z onto the Daedric
 alphabet, so every inscription is a readable phrase.
 
-![splash](screenshots/splash.png)
+![splash](screenshots/splash.jpg)
 
 ## What is on screen
 
